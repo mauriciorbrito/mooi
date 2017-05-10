@@ -68,7 +68,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-		Hola Mauricio.
+	Hola Mauricio.
+	<br>
+	Como estas?
 </div>
 
 </body>
